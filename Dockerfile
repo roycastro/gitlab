@@ -1,4 +1,4 @@
-FROM gitlab/gitlab-ce:8.17.4-ce.0
+FROM gitlab/gitlab-ce:rc
 MAINTAINER Przemyslaw Ozgo linux@ozgo.info
 
 RUN \
